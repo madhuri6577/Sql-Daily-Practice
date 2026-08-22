@@ -1,6 +1,9 @@
 SQL Practice — From Basic to Advanced
+
 This repository contains my daily SQL practice as I learn and strengthen my SQL skills for Data Analytics.
-Topics Covered
+
+Topics Covered:
+
 SQL Basics
 SELECT, WHERE, ORDER BY
 GROUP BY and HAVING
